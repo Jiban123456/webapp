@@ -1,3 +1,1 @@
-1 st commit
-2nd commit
-3rd commit
+this is my 1st commit 
